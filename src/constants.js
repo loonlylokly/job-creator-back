@@ -1,0 +1,18 @@
+export const fieldNames = {
+  "First name": "",
+  "Last name": "",
+  Phone: "",
+  Email: "",
+  "Job type": "",
+  "Job source": "",
+  "Job description": "",
+  Address: "",
+  City: "",
+  State: "",
+  Zipcode: "",
+  Area: "",
+  "Start date": "",
+  "Start time": "",
+  "End time": "",
+  "Select technician": "",
+};
